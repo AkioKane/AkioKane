@@ -37,6 +37,6 @@
 
 ### My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atemm4&hide=contribs,prs&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkioKane&hide=contribs,prs&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atemm4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkioKane&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
