@@ -11,18 +11,18 @@
     </div>
     <h1>
         Hi there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"">
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
     </h1>
 </div>
 
 <div align="center">
-    <img src="assets/programmer_girl.gif">
+    <img src="assets/Like_cyberpunkonline.gif">
 </div>
 
 ---
 
 ### 👩‍💻 About Me :
-- 🔭 I’m working as a Frontend developer for building web applications.
+- 🔭 I’m working as a Full-stack developer for building web applications.
 
 - 🌱 Exploring Technical Leet Code.
 
@@ -31,7 +31,7 @@
 ---
 ### ⚒️Languages and Tools:
 <div class="icons">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,sqlite,linux,githubactions,git,vscode,&perline=6" align="center"/>
+    <img src="https://skillicons.dev/icons?i=js,react,express,postgresql,sqlite,py,html,css,bash,linux,git,vscode&perline=6" align="center"/>
     <br>
 </div>
 
